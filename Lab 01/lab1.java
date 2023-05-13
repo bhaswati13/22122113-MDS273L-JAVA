@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class lab01ques1 {
+class lab1 {
     public static void main(String[] args) {
 
         String name;
